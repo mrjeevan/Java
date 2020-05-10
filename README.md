@@ -1,4 +1,12 @@
 # Decimal To Binary Converter
+## Team Details :
+1. M R Jeevan ( 4AL18CS046 ) 
+2. Mohammed Mukarram (4AL18CS49 ) [Github](https://github.com/ryuoga12/JAVA)
+3. M Venkataramanachari (4AL18CS047 )
+
+
+
+
 #### ablities :
   * Error Handling
   * Hints
